@@ -1,4 +1,9 @@
-GAN (generative adversarial networks)
+#GAN (generative adversarial networks)
+1) Discriminator- classify data. dummy vs real
+2) Generator- generates synthetic data
+
 RNN (Recurrent neural networks)
 Variational
-Autoencoders- type of neural network
+
+#Autoencoders- type of neural network
+used for image geneartion, anomaly detection
