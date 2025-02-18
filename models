@@ -3,7 +3,10 @@
 2) Generator- generates synthetic data
 
 RNN (Recurrent neural networks)
-Variational
+-Variational
+- process sequential data
+
+ANN (Artificial neural networks)
 
 #Autoencoders- type of neural network
 used for image geneartion, anomaly detection
