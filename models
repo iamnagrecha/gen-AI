@@ -16,5 +16,7 @@ thisxdoesnotexist.com
 
 Encoder Decoder
 - encoder is the learner
+- ChatGPT is a decoder
+- BERT is encoder- created by google to understand the textual data
 
 when combines becomes a transformer
