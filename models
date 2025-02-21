@@ -5,7 +5,8 @@
 RNN (Recurrent neural networks)
 -Variational
 - process sequential data
-- works on the principle of ts
+- works on the principle of _ts
+- will forget the context
 
 ANN (Artificial neural networks)
 
@@ -19,4 +20,4 @@ Encoder Decoder
 - ChatGPT is a decoder
 - BERT is encoder- created by google to understand the textual data
 
-when combines becomes a transformer
+when combined becomes a transformer
