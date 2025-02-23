@@ -1,3 +1,7 @@
 VAE- to reduce space of an a HD image- application of an autoencoder.
 can change the bg of an image or create a new bg based on all the bgs
 
+The encoder captures the essence of th eimage and then decoder recreates while reducing the size.
+
+Deepfakes - result of GANs
+
