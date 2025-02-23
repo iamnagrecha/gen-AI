@@ -5,4 +5,4 @@ The encoder captures the essence of th eimage and then decoder recreates while r
 
 Deepfakes - result of GANs
 
-RNN - > LSTM (long short term memory)
+RNN - > LSTM (long short term memory) -> GRUs (Gated recurrent units)
