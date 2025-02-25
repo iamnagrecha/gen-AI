@@ -6,3 +6,12 @@ The encoder captures the essence of th eimage and then decoder recreates while r
 Deepfakes - result of GANs
 
 RNN - > LSTM (long short term memory) -> GRUs (Gated recurrent units)
+
+Encoder- is responsible to understand the textual data
+
+The Lion is ----------
+
+King
+Leader
+
+The decoder then along with softmax, will decide, that The Lion is King. using LSTMs
