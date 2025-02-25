@@ -16,3 +16,5 @@ Leader
 
 The decoder then along with softmax, will decide, that The Lion is King. using LSTMs
 it was updated with Transformer with Attention (its deprecated now)
+
+with genAI these models are redundant.
