@@ -1,0 +1,5 @@
+#stable diffusion
+
+ML model used to generate image from text prompt.
+
+LDM (latent diffusion model)
