@@ -9,3 +9,8 @@ This happens in latent space- where calculations are more faster & easier
 CLIP- contrastive language image pre-training dev by openAI
 
 The prompts guides the nisy image, and denoises them
+
+challenges:
+1) it has natve resol
+2) can't generate human complex structure
+3) can't customize
