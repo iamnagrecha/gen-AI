@@ -2,7 +2,7 @@
 
 ML model used to generate image from text prompt.
 
-LDM (latent diffusion model)
+uses the LDM (latent diffusion model)
 
 This happens in latent space- where calculations are more faster & easier
 
