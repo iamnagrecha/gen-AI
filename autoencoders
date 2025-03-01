@@ -2,3 +2,7 @@
 used in genrative modeling
 
 VAR (variational autoencoders)
+
+image augmentations- images can be brighter, cropped, flippedor different contarsts. 
+
+usage- model should be able to classify images sent in any form
