@@ -7,4 +7,4 @@ image augmentations- images can be brighter, cropped, flippedor different contar
 
 usage- model should be able to classify images sent in any form
 
-Masked image- removeing/hinding certain portion of an image
+Masked image (incomplete image)- removing/hiding certain portion of an image
