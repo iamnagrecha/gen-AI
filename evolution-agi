@@ -1,3 +1,9 @@
 
 agi- artificial gen ai 
-OHE- one hot encoding
+OHE- one hot encoding [0,0,0,0,1] n dim vector
+
+BOW- bag of words
+TFIDF
+
+Neural networks- consists of neurons- trainable parameters
+
