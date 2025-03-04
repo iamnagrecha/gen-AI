@@ -10,3 +10,6 @@ Neural networks- consists of neurons- trainable parameters
 neural net needs big data
 
 RNN- recurrent neural networks
+issue - was of memory, what should be retained.
+
+Sol- LSTMs- long short term memory. 
