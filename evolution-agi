@@ -18,3 +18,5 @@ Sol- LSTMs- long short term memory.
 -> Attention models [llms/transformer]
 
 -. n dim vector created from neural net.
+men = []
+women = []- embeddings
