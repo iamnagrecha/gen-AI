@@ -14,3 +14,5 @@ issue - was of memory, what should be retained.
 
 Sol- LSTMs- long short term memory. 
 -> variations of RNNs
+
+-> Attention models [llms/transformer]
