@@ -20,3 +20,8 @@ Sol- LSTMs- long short term memory.
 -. n dim vector created from neural net.
 men = []
 women = []- embeddings
+
+Apple => [x,y]
+
+X- fruit, Y-Tech
+
